@@ -1,0 +1,23 @@
+{
+  "name": "Movie Browser",
+  "short_name": "Movies",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#1c1c1c",
+  "description": "Browse and explore movies and TV series.",
+  "orientation": "portrait",
+  "scope": ".",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
